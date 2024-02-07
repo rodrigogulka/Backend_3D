@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+#titulo {
+    font-size: 80px;
+    color: white;
+    position: absolute;
+    left: 25%;
+    top: 7%;
+}
+#logo {
+    width: 20%;
+    text-align: center;
+}
+nav { position: absolute;
+    top: 8%;
+    right: 3%;
+    font-size: 150%;
+    text-align: center;
+    color: white;
+}
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}   
+nav a {
+    text-transform: uppercase;
+    color:white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+#cerveja {
+    width: 23%;
+    margin:0;
+    padding:0;
+    border:0;
+}
+#fralda {
+    width: 27%;
+    margin:0;
+    padding:0;
+    border:0;
+}
+#leite {
+    width: 20%;
+    margin:0;
+    padding:0;
+    border:0;
+}
+.sobrenos {
+    font-size: 200%;
+    color: #ffffff;
+    text-align: center;
+}
